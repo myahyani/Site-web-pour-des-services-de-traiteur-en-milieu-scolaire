@@ -254,3 +254,8 @@ a {
     float: right;
     margin-top: -373px;
 }
+
+.wid-alite {
+    width: 98%;
+    text-align: center;
+}

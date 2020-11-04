@@ -130,6 +130,41 @@
             </form>
        </div>
     </div>
+    <!--  FOOTER START -->
+
+    <div class="footer">
+        <div class="inner-footer">
+            <div>
+                <h2>Lunch<span class="text-primary"> écolier</span></h2>
+                <p>Plats pour vos enfants <br>à l'école.</p>
+            </div>
+            <div>
+                <h3>Liens rapides</h3>
+                <ol type="square" class="menufo">
+                    <li><a href="accueil.html">
+                    Accueil</a></li>
+
+                    <li><a href="info.html">
+                    Informations</a></li>
+
+                    <li><a href="contact.html">
+                    Contactez-nous</a></li>
+
+                </ol>
+            </div>
+            <div>
+                <h3>Contactez-nous</h3>
+                <ol type="square" class="menufo">
+                    <li>Montreal Gouin Boulevard, Canada</li>
+                    <li>Lunchecolier@gmail.com</li>
+                    <li>+1 (514) 863-2918</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
 </body>
 </html>
         
