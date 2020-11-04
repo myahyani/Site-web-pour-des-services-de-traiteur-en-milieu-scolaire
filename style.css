@@ -130,7 +130,6 @@ a {
     background-color: darkgoldenrod;
     margin-left: 10px;
     border-radius: 6px;
-    padding: 5px;
 }
 
 .prop-h2 {
@@ -173,7 +172,7 @@ a {
     border: 0;
     border-radius: 5px;
     padding: 5px 10px;
-    background-color: rgba(255, 255, 255, .6);
+    background-color: #cbb268;
     text-decoration: none;
     cursor: pointer;
 }
@@ -185,7 +184,6 @@ a {
     border-radius: 15px;
     position: relative;
     margin: 100px 15px 15px 15px;
-    margin-top: -15px;
 }
 
 .footer {
@@ -199,4 +197,60 @@ a {
     display: flex;
     justify-content: space-around;
     width: 100%;
+}
+
+.menufo {
+    font-size: medium;
+}
+
+.section-4 {
+    margin: 4%;
+    text-align: left;
+    text-align: justify;
+}
+
+.inline {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.input-group {
+    width: 80%;
+}
+
+.input-text {
+    display: block;
+    width: 90%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    margin-top: 5px;
+    width: 95%;
+    margin-bottom: 15px;
+}
+
+.btn-lg {
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+
+#lundi1 {
+    background: url(img/lundi1.jpg) no-repeat
+}
+
+#lundi2 {
+    background: url(img/lundi2.jpg) no-repeat
+}
+
+.inlinechoix {
+    float: right;
+    margin-top: -373px;
 }
