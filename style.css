@@ -18,6 +18,19 @@ html {
     float: left !important;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #f9f9f9;
+    font-size: 13px;
+    line-height: 20px;
+    font-family: Montserrat, Arial, sans-serif;
+    color: #555;
+    font-weight: 400;
+}
+
 
 /* info */
 
@@ -87,4 +100,8 @@ a {
     color: var(--white);
     text-align: right;
     text-transform: uppercase;
+}
+
+.text-primary {
+    color: var(--teal);
 }
