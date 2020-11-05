@@ -40,11 +40,11 @@
                 <div class="inline">
                     <div class="input-group">
                         <label for="Nomeparent">Nom complet du parent</label><br>
-                        <input class="input-text" id="Nomeparent" name="Nomeparent" type="text" pattern="[A-Z]+[a-z]" required>
+                        <input class="input-text" id="Nomeparent" name="Nomeparent" type="text" pattern="[A-Za-z' ']+" required>
                     </div>
                     <div class="input-group">
                         <label for="Nomenfant">Nom complet de l'enfant</label><br>
-                        <input class="input-text" id="Nomenfant" name="Nomenfant" type="text" required>
+                        <input class="input-text" id="Nomenfant" name="Nomenfant" type="text" pattern="[A-Za-z' ']+" required>
                     </div>
                 </div>
 
@@ -55,7 +55,7 @@
                     </div>
                     <div class="input-group">
                         <label for="école">L'école de l'enfant</label><br>
-                        <input class="input-text" id="école" name="école" type="text" required>
+                        <input class="input-text" id="école" name="ecole" type="text" required>
                     </div>
                 </div>
 
