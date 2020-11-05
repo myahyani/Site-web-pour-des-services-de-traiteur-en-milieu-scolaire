@@ -1,8 +1,10 @@
-:root {
-    --teal: #00e0ff;
-    --white: #fff;
-    --dark: #333;
-}
+/*
+ * @author Mohamed Yahyani
+ * @Code_Permanent: YAHM14059203
+ * @Courriel: yahyani.mohamed@courrier.uqam.ca
+ * @Cours: INF3190-40
+ * @version 2020-11-04
+*/
 
 body,
 html {
@@ -38,7 +40,7 @@ body {
 .info {
     z-index: 1;
     width: 100%;
-    background-color: var(--white);
+    background-color: #fff;
     text-align: center;
     padding: 10px 0px;
     position: fixed;
@@ -51,7 +53,7 @@ body {
 ul {
     list-style-type: none;
     overflow: hidden;
-    background-color: var(--dark);
+    background-color: #333;
     z-index: 1;
     padding: 0;
 }
@@ -98,13 +100,13 @@ a {
     position: absolute;
     top: 40%;
     left: 5%;
-    color: var(--white);
+    color: #fff;
     text-align: left;
     text-transform: uppercase;
 }
 
 .text-primary {
-    color: var(--teal);
+    color: #00e0ff;
 }
 
 
@@ -178,7 +180,7 @@ a {
 }
 
 .section-0 {
-    background-color: var(--white);
+    background-color: #fff;
     box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
     padding: 20px;
     border-radius: 15px;
@@ -187,7 +189,7 @@ a {
 }
 
 .footer {
-    background-color: var(--dark);
+    background-color: #333;
     padding: 15px;
     color: white;
     margin-top: 15px;

@@ -55,7 +55,7 @@
                     </div>
                     <div class="input-group">
                         <label for="école">L'école de l'enfant</label><br>
-                        <input class="input-text" id="école" name="ecole" type="text" pattern="[A-Za-z0-9' ']+" required>
+                        <input class="input-text" id="école" name="ecole" type="text" required>
                     </div>
                 </div>
 

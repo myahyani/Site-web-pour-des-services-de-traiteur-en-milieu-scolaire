@@ -1,3 +1,4 @@
 
 Parent:mohamed yahyani, Enfant:ezza yahyani, Age:5, Ecole:St-Etienne, Lundi:Riz brun aux lentilles et aux oignons caramélisés, Mardi:Tarte au yogourt et au kéfir, Mercredi:Saumon grillé, tomates confites et artichauts, Jeudi:Couscous au jus de carotte, Vendredi:Poule au pot et légumes d’automne à l’estragon
 Parent:Imane Frouni, Enfant:Izak Yahyani, Age:9, Ecole:St-Etienne, Lundi:Poulet au sumac et concombres acidulés, Mardi:Compote de pommes à l’autocuiseur, Mercredi:Salade croquante au quinoa, chou, radis et feta, Jeudi:Patates douces rôties à l’huile de caméline, Vendredi:Riz brun, crevettes et tofu grillé
+Parent:Mohamed Yahyani, Enfant:Ezza yahyani, Age:5, Ecole:St-Etienne, Lundi:Riz brun aux lentilles et aux oignons caramélisés, Mardi:Tarte au yogourt et au kéfir, Mercredi:Saumon grillé, tomates confites et artichauts, Jeudi:Couscous au jus de carotte, Vendredi:Poule au pot et légumes d’automne à l’estragon
