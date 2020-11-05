@@ -242,14 +242,6 @@ a {
     border-radius: .25rem;
 }
 
-#lundi1 {
-    background: url(img/lundi1.jpg) no-repeat
-}
-
-#lundi2 {
-    background: url(img/lundi2.jpg) no-repeat
-}
-
 .inlinechoix {
     float: right;
     margin-top: -373px;
@@ -258,4 +250,8 @@ a {
 .wid-alite {
     width: 98%;
     text-align: center;
+}
+
+.hei65 {
+    height: 65%;
 }
