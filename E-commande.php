@@ -39,60 +39,59 @@ file_put_contents('commandes.txt', $text, FILE_APPEND);
 <!DOCTYPE html>
 <html lang="fr">
 
-<head>
-    <link rel="icon" href="img/icon.png">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Lunch écolier</title>
-</head>
+    <head>
+        <link rel="icon" href="img/icon.png">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Lunch écolier</title>
+    </head>
 
-<body>
-    <div class="info">
-        Appelez-nous au : +1 (514) 863-2918 📞| De 7h à 17h | 5j / 7j
-    </div>
-    <div class="nav">
-        <ul id="header">
-            <li><a href="commande.php">Commandez</a></li>
-            <li><a href="contact.html">Contactez-nous</a></li>
-            <li><a href="info.html">Informations</a></li>
-            <li><a href="accueil.html">Acceuil</a></li>
-            <li class="logo"><a href="accueil.html">Lunch<span class="text-primary"> écolier</span></a></li>
-        </ul>
-    </div>
-    <div class="section-0 section-0-1-marg">
-       <div class="section-4">
-           <h1 id="texteenreg">Félicitations,<br><br><br> Votre commande a été enregistrée avec succès.</h1>
-       </div>
-    </div>
-    <div class="hei65"></div>
-    
-    <!--  FOOTER START -->
-
-    <div class="footer">
-        <div class="inner-footer">
-            <div>
-                <h2>Lunch<span class="text-primary"> écolier</span></h2>
-                <p>Plats pour vos enfants <br>à l'école.</p>
-            </div>
-            <div>
-                <h3>Liens rapides</h3>
-                <ol type="square" class="menufo">
-                    <li><a href="accueil.html">Accueil</a></li>
-                    <li><a href="info.html">Informations</a></li>
-                    <li><a href="contact.html">Contactez-nous</a></li>
-                </ol>
-            </div>
-            <div>
-                <h3>Contactez-nous</h3>
-                <ol type="square" class="menufo">
-                    <li>405 Rue Sainte-Catherine Est, Montréal, QC H2L 2C4</li>
-                    <li>Lunchecolier@gmail.com</li>
-                    <li>+1 (514) 863-2918</li>
-                </ol>
+    <body>
+        <div class="info">
+            Appelez-nous au : +1 (514) 863-2918 📞| De 7h à 17h | 5j / 7j
+        </div>
+        <div class="nav">
+            <ul id="header">
+                <li><a href="commande.php">Commandez</a></li>
+                <li><a href="contact.html">Contactez-nous</a></li>
+                <li><a href="info.html">Informations</a></li>
+                <li><a href="accueil.html">Acceuil</a></li>
+                <li class="logo"><a href="accueil.html">Lunch<span class="text-primary"> écolier</span></a></li>
+            </ul>
+        </div>
+        <div class="section-0 section-0-1-marg">
+            <div class="section-4">
+                <h1 id="texteenreg">Félicitations,<br><br><br> Votre commande a été enregistrée avec succès.</h1>
             </div>
         </div>
-    </div>
-</body>
+        <div class="hei65"></div>
 
-</html>   
+        <!--  FOOTER START -->
+
+        <div class="footer">
+            <div class="inner-footer">
+                <div>
+                    <h2>Lunch<span class="text-primary"> écolier</span></h2>
+                    <p>Plats pour vos enfants <br>à l'école.</p>
+                </div>
+                <div>
+                    <h3>Liens rapides</h3>
+                    <ul class="menufo">
+                        <li><a href="accueil.html">Accueil</a></li>
+                        <li><a href="info.html">Informations</a></li>
+                        <li><a href="contact.html">Contactez-nous</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Contactez-nous</h3>
+                    <ul class="menufo">
+                        <li>405 Rue Sainte-Catherine Est, Montréal, QC H2L 2C4</li>
+                        <li>Lunchecolier@gmail.com</li>
+                        <li>+1 (514) 863-2918</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
