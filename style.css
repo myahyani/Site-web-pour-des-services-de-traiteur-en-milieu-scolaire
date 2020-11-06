@@ -78,9 +78,8 @@ a {
 }
 
 .nav a {
-    text-align: center;
     display: block;
-    padding: 14px 16px;
+    padding: 16px 16px;
 }
 
 .nav ul li {
@@ -124,7 +123,12 @@ a {
 .display {
     font-size: 2.5rem;
     line-height: 1.2;
-    margin-bottom: 15px;
+}
+
+.display {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    color: black;
 }
 
 .btn-primary,
@@ -185,7 +189,18 @@ a {
     padding: 20px;
     border-radius: 15px;
     position: relative;
-    margin: 100px 15px 15px 15px;
+}
+
+.section-0-marg {
+    margin: -15px 15px 15px 15px;
+}
+
+.section-0-1-marg {
+    margin: 120px 15px 15px 15px;
+}
+
+.section-0-2-marg {
+    margin: 15px 15px 15px 15px;
 }
 
 .footer {
@@ -201,8 +216,9 @@ a {
     width: 100%;
 }
 
-.menufo {
+.menufo a {
     font-size: medium;
+    padding: 0px;
 }
 
 .section-4 {
@@ -219,6 +235,7 @@ a {
 
 .input-group {
     width: 80%;
+    margin-top: 10px;
 }
 
 .input-text {
@@ -256,4 +273,40 @@ a {
 
 .hei65 {
     height: 65%;
+}
+
+.imgmargin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.texth3deco {
+    text-decoration: underline;
+    color: blue;
+}
+
+#texteenreg {
+    text-align: center;
+}
+
+.bagr-apropos {
+    background-image: url("img/img3.jpg");
+    height: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.bagr-contact {
+    background-image: url("img/img4.jpg");
+    height: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#mailtext {
+    color: #555;
 }

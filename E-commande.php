@@ -60,13 +60,12 @@ file_put_contents('commandes.txt', $text, FILE_APPEND);
             <li class="logo"><a href="accueil.html">Lunch<span class="text-primary"> écolier</span></a></li>
         </ul>
     </div>
-    <div class="section-0">
+    <div class="section-0 section-0-1-marg">
        <div class="section-4">
-           <h1><i class="ri-check-double-line"></i> La commande a été enregistrée avec succès</h1>
+           <h1 id="texteenreg">Félicitations,<br><br><br> Votre commande a été enregistrée avec succès.</h1>
        </div>
     </div>
     <div class="hei65"></div>
-    
     
     <!--  FOOTER START -->
 
@@ -79,21 +78,15 @@ file_put_contents('commandes.txt', $text, FILE_APPEND);
             <div>
                 <h3>Liens rapides</h3>
                 <ol type="square" class="menufo">
-                    <li><a href="accueil.html">
-                    Accueil</a></li>
-
-                    <li><a href="info.html">
-                    Informations</a></li>
-
-                    <li><a href="contact.html">
-                    Contactez-nous</a></li>
-
+                    <li><a href="accueil.html">Accueil</a></li>
+                    <li><a href="info.html">Informations</a></li>
+                    <li><a href="contact.html">Contactez-nous</a></li>
                 </ol>
             </div>
             <div>
                 <h3>Contactez-nous</h3>
                 <ol type="square" class="menufo">
-                    <li>Montreal Gouin Boulevard, Canada</li>
+                    <li>405 Rue Sainte-Catherine Est, Montréal, QC H2L 2C4</li>
                     <li>Lunchecolier@gmail.com</li>
                     <li>+1 (514) 863-2918</li>
                 </ol>
@@ -102,7 +95,4 @@ file_put_contents('commandes.txt', $text, FILE_APPEND);
     </div>
 </body>
 
-</html>
-</body>
-</html>
-        
+</html>   
