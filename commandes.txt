@@ -1,2 +1,2 @@
 
-Parent:Mohamed Yahyani, Enfant:Ezza Yahyani, Age:4, Ecole:Montreal, Lundi:Riz brun aux lentilles et aux oignons caramélisés, Mardi:Compote de pommes à l’autocuiseur, Mercredi:Saumon grillé, tomates confites et artichauts, Jeudi:Patates douces rôties à l’huile de caméline, Vendredi:Poule au pot et légumes d’automne à l’estragon
+Parent:Mohamed Yahyani, Enfant:Ezza Yahyani, Age:4, Ecole:Montreal, Lundi:Riz brun aux lentilles et aux oignons caramélisés, Mardi:Tarte au yogourt et au kéfir, Mercredi:Saumon grillé, tomates confites et artichauts, Jeudi:Couscous au jus de carotte, Vendredi:Riz brun, crevettes et tofu grillé
